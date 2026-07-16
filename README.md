@@ -1,63 +1,165 @@
 # 🚀 AI Engineer Roadmap
 
-Welcome to my AI Engineer learning journey!
+Welcome to my AI Engineer Roadmap!
 
-This repository documents my progress toward becoming an AI Engineer through consistent daily learning, coding practice, projects, and certifications.
+This repository documents my journey toward becoming an AI Engineer through daily learning, coding practice, interview preparation, projects, and continuous skill development.
 
----
-
-## 🎯 Goals
-
-- 🐍 Master Python
-- 📊 Learn Data Analysis
-- 🤖 Master Machine Learning
-- 🧠 Learn Deep Learning
-- ⚡ Master PyTorch
-- 🤖 Learn Large Language Models (LLMs)
-- 🛠️ Build AI Projects
-- ☁️ Learn MLOps
-- 💼 Prepare for AI Engineer Interviews
+The goal is not just to complete courses, but to build a strong foundation in Artificial Intelligence while maintaining a public record of consistent learning.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Objectives
 
+- 🐍 Master Python Programming
+- 📊 Learn Data Analysis with NumPy & Pandas
+- 📈 Build Data Visualization Skills
+- 🤖 Learn Machine Learning
+- 🧠 Master Deep Learning
+- ⚡ Learn PyTorch
+- 🤗 Work with Hugging Face Transformers
+- 💬 Build Large Language Model (LLM) Applications
+- ☁️ Learn MLOps & Deployment
+- 🚀 Build Real-World AI Projects
+- 💼 Become Interview Ready for AI Engineer Roles
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming
 - Python
+
+### Data Science
 - NumPy
 - Pandas
 - Matplotlib
+
+### Machine Learning
 - Scikit-learn
+
+### Deep Learning
 - PyTorch
-- Hugging Face
+
+### AI & LLMs
+- Hugging Face Transformers
+- LangChain (Upcoming)
+
+### Backend
 - FastAPI
-- Docker
-- Git & GitHub
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
 ---
 
-## 📅 Progress
+# 📅 Learning Progress
 
 | Day | Topics | Status |
 |-----|--------|--------|
-| Day 1 | Python Revision & AI Fundamentals | ✅ |
-| Day 2 | Python Interview Practice & NumPy Fundamentals | ✅ |
-| Day 3 | Advanced Python + NumPy | ⏳ |
+| ✅ Day 1 | AI Fundamentals & Python Revision | Completed |
+| ✅ Day 2 | Python Interview Practice & NumPy Fundamentals | Completed |
+| ✅ Day 3 | Functions, Strings & Dictionary Interview Problems | Completed |
+| ⏳ Day 4 | Sets, Tuples & List Comprehensions | Upcoming |
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 AI-Engineer-Roadmap/
 │
-├── Day-01/
-├── Day-02/
-└── README.md
+├── README.md
+│
+├── Day_1/
+│   ├── day_1.py
+│   └── README.md
+│
+├── Day_2/
+│   ├── day_2.py
+│   └── README.md
+│
+├── Day_3/
+│   ├── day_3.py
+│   └── README.md
+│
+├── Projects/
+│
+├── Notes/
+│
+└── Certificates/
 ```
 
 ---
 
-## 🚀 Objective
+# 📚 Daily Learning Workflow
 
-Build a strong foundation in Artificial Intelligence while documenting the complete journey through code, notes, and projects.
+Each learning day follows the same structure:
 
-This repository serves as both my learning journal and portfolio.
+- 📖 Learn the concept
+- 💻 Solve coding problems
+- 🧠 Understand the logic
+- 📝 Document key learnings
+- 🚀 Push progress to GitHub
+
+---
+
+# 🏆 Current Progress
+
+## Python
+- ✅ Variables
+- ✅ Data Types
+- ✅ Lists
+- ✅ Loops
+- ✅ Functions
+- ✅ Strings
+- ✅ Dictionaries
+- ⏳ Sets
+- ⏳ Tuples
+- ⏳ Object-Oriented Programming
+
+---
+
+## AI Foundations
+- ✅ Artificial Intelligence
+- ✅ Machine Learning
+- ✅ Deep Learning
+- ✅ Neural Networks
+- ✅ Weights & Bias
+- ✅ Loss Functions
+- ✅ Backpropagation
+
+---
+
+# 🎯 Long-Term Goal
+
+Build a complete AI Engineer portfolio containing:
+
+- Python Interview Preparation
+- Machine Learning Projects
+- Deep Learning Projects
+- Computer Vision Applications
+- NLP Projects
+- LLM Applications
+- MLOps & Deployment
+- Interview Notes
+- Certifications
+
+---
+
+# 📈 Learning Philosophy
+
+I believe consistent practice is more valuable than rushing through tutorials.
+
+This repository serves as my public learning journal where I document my daily progress, strengthen problem-solving skills, and build real-world AI applications one step at a time.
+
+---
+
+## ⭐ Connect With Me
+
+If you're also learning AI, feel free to explore this repository, share suggestions, or connect with me. Learning is always better together.
+
+---
+
+> "Consistency beats intensity. One day at a time."
