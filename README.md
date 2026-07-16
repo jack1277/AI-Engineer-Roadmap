@@ -51,9 +51,6 @@ AI-Engineer-Roadmap/
 │
 ├── Day-01/
 ├── Day-02/
-├── Projects/
-├── Notes/
-├── Certificates/
 └── README.md
 ```
 
