@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![Progress](https://img.shields.io/badge/Progress-Day%205%20of%2060-success)
+![AI Engineer Roadmap](https://img.shields.io/badge/Roadmap-AI%20Engineer-red)
+
+
 # 🚀 AI Engineer Roadmap
 
 Welcome to my AI Engineer Roadmap!
@@ -26,28 +32,28 @@ The goal is not just to complete courses, but to build a strong foundation in Ar
 
 # 🛠️ Tech Stack
 
-### Programming
+## Programming
 - Python
 
-### Data Science
+## Data Science
 - NumPy
 - Pandas
 - Matplotlib
 
-### Machine Learning
+## Machine Learning
 - Scikit-learn
 
-### Deep Learning
+## Deep Learning
 - PyTorch
 
-### AI & LLMs
+## AI & LLMs
 - Hugging Face Transformers
-- LangChain (Upcoming)
+- LangChain *(Upcoming)*
 
-### Backend
+## Backend
 - FastAPI
 
-### Tools
+## Tools
 - Git
 - GitHub
 - VS Code
@@ -57,17 +63,19 @@ The goal is not just to complete courses, but to build a strong foundation in Ar
 # 📅 Learning Progress
 
 | Day | Topics | Status |
-|-----|--------|--------|
+|------|--------|--------|
 | ✅ Day 1 | AI Fundamentals & Python Revision | Completed |
 | ✅ Day 2 | Python Interview Practice & NumPy Fundamentals | Completed |
-| ✅ Day 3 | Functions, Strings & Dictionary Interview Problems | Completed |
-| ⏳ Day 4 | Sets, Tuples & List Comprehensions | Upcoming |
+| ✅ Day 3 | Strings, Lists, Tuples, Sets & Dictionaries | Completed |
+| ✅ Day 4 | Python Problem Solving & Interview Practice | Completed |
+| ✅ Day 5 | Functions, Lambda, map(), filter(), reduce() & Exception Handling | Completed |
+| ⏳ Day 6 | File Handling, Modules & OOP | Upcoming |
 
 ---
 
 # 📂 Repository Structure
 
-```
+```text
 AI-Engineer-Roadmap/
 │
 ├── README.md
@@ -84,6 +92,16 @@ AI-Engineer-Roadmap/
 │   ├── day_3.py
 │   └── README.md
 │
+├── Day_4/
+│   ├── day_4.py
+│   └── README.md
+│
+├── Day_5/
+│   ├── functions.py
+│   ├── lambda_map_filter_reduce.py
+│   ├── exception_handling.py
+│   └── README.md
+│
 ├── Projects/
 │
 ├── Notes/
@@ -98,8 +116,9 @@ AI-Engineer-Roadmap/
 Each learning day follows the same structure:
 
 - 📖 Learn the concept
-- 💻 Solve coding problems
+- 💻 Practice coding
 - 🧠 Understand the logic
+- ❓ Solve interview questions
 - 📝 Document key learnings
 - 🚀 Push progress to GitHub
 
@@ -108,20 +127,30 @@ Each learning day follows the same structure:
 # 🏆 Current Progress
 
 ## Python
+
 - ✅ Variables
 - ✅ Data Types
-- ✅ Lists
+- ✅ Operators
+- ✅ Conditional Statements
 - ✅ Loops
-- ✅ Functions
 - ✅ Strings
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
 - ✅ Dictionaries
-- ⏳ Sets
-- ⏳ Tuples
+- ✅ Functions
+- ✅ Lambda Functions
+- ✅ map()
+- ✅ filter()
+- ✅ reduce()
+- ✅ Exception Handling
+- ⏳ File Handling
 - ⏳ Object-Oriented Programming
 
 ---
 
 ## AI Foundations
+
 - ✅ Artificial Intelligence
 - ✅ Machine Learning
 - ✅ Deep Learning
@@ -129,6 +158,25 @@ Each learning day follows the same structure:
 - ✅ Weights & Bias
 - ✅ Loss Functions
 - ✅ Backpropagation
+
+---
+
+# 📈 Roadmap Progress
+
+**Days Completed:** **5 / 60**
+
+### Completed Modules
+
+- Python Fundamentals
+- Data Structures
+- Functional Programming
+- Exception Handling
+
+### Next Up
+
+- 📂 File Handling
+- 📦 Modules & Packages
+- 🏛️ Object-Oriented Programming (OOP)
 
 ---
 
@@ -141,10 +189,11 @@ Build a complete AI Engineer portfolio containing:
 - Deep Learning Projects
 - Computer Vision Applications
 - NLP Projects
-- LLM Applications
+- Large Language Model (LLM) Applications
 - MLOps & Deployment
-- Interview Notes
+- AI Interview Notes
 - Certifications
+- End-to-End AI Projects
 
 ---
 
@@ -156,10 +205,10 @@ This repository serves as my public learning journal where I document my daily p
 
 ---
 
-## ⭐ Connect With Me
+# ⭐ Connect With Me
 
 If you're also learning AI, feel free to explore this repository, share suggestions, or connect with me. Learning is always better together.
 
 ---
 
-> "Consistency beats intensity. One day at a time."
+> **"Consistency beats intensity. One day at a time."** 
